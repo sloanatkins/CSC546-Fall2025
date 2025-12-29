@@ -1,62 +1,62 @@
-# CSC 546 — Introduction to Machine Learning with Applications
+# Machine Learning Coursework – CSC 546
 
-This repository contains coursework for **CSC 546: Introduction to Machine Learning with Applications**.
+This repository contains coursework completed for **CSC 546: Introduction to Machine Learning with Applications**.
 
-The course focuses on both the **theoretical foundations** and **practical implementation** of modern machine learning techniques using Python and industry-standard libraries.
+The course emphasizes both the mathematical foundations and practical implementation of modern machine learning techniques using Python and widely used machine learning libraries.
 
 ---
 
-## 📚 Topics Covered
-- Python for scientific computing
-- Probability and statistics for ML
-- NumPy and data manipulation
-- K-Means clustering
-- Gaussian Mixture Models (GMM)
-- Kernel Density Estimation (KDE)
-- Dimensionality Reduction
-- Classification and Regression
-- Support Vector Machines (SVM / SVR)
-- Ensemble learning
+## Course Overview
+Topics covered in this course include:
+
+- Python and probability for machine learning
+- NumPy and scientific computing
+- K-means clustering
+- Gaussian Mixture Models
+- Kernel Density Estimation
+- Dimensionality reduction
+- Classification and regression
+- Support Vector Machines (SVM and SVR)
+- Ensemble learning methods
 - Cross-validation and model selection
 - Performance metrics and evaluation
 - Signal encoding and decoding
 - Dictionary learning
 - Neural networks and deep learning
 - PyTorch and Keras
-- Computational graphs & automatic differentiation
-- Convolutional Neural Networks (CNNs)
+- Computational graphs and automatic differentiation
+- Convolutional Neural Networks
 - Autoencoders
-- Generative Adversarial Networks (GANs)
+- Generative Adversarial Networks
 - Transfer learning
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools and Technologies
 - Python
 - NumPy
 - PyTorch
 - Keras
-- Matplotlib / Seaborn
 - Jupyter Notebook
+- Matplotlib and Seaborn
 
 ---
 
-## 📂 Repository Structure
-- `HW1` – Foundations: Python, probability, NumPy
-- `HW2` – Clustering and density estimation
+## Repository Structure
+- `HW1` – Python fundamentals, probability, and NumPy
+- `HW2` – Clustering and density estimation techniques
 - `HW3` – Classification and regression models
-- `HW4` – Neural networks and deep learning
-- `HW5` – Advanced models and evaluation
+- `HW4` – Neural networks and deep learning methods
+- `HW5` – Advanced models and performance evaluation
 
-Each homework folder contains source code, notebooks, and results relevant to the assignment.
-
----
-
-## 🎯 Learning Outcomes
-Through this course, I gained hands-on experience implementing and evaluating machine learning models, understanding trade-offs between different approaches, and applying theory to real datasets.
+Each folder contains source code, notebooks, and results relevant to the corresponding assignment.
 
 ---
 
-## 📌 Notes
-Large datasets and pretrained models are excluded from the repository when necessary and are referenced within individual assignments.
+## Learning Outcomes
+Through this coursework, I developed a strong understanding of core machine learning concepts, implemented a variety of learning algorithms from scratch and using established frameworks, and evaluated models using appropriate performance metrics.
 
+---
+
+## Notes
+Large datasets and generated artifacts are excluded from the repository when appropriate and are referenced within individual assignments.
